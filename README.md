@@ -1,53 +1,26 @@
 
 # ReachInBox-assignment 
 
+## How to Run the Application
 
-## Features
+1. **Clone the Repository:** Clone this repository to your local machine using the following command:
 
-- Light/Dark mode
-- Signup/Login functionality
-- JWT authentication
-- Redux & Redux Toolkit integration
-- Params-based API calls
-- Delete thread messages (with pop-up confirmation)
-- Reply to threads (with pop-up)
-- Custom right-click options, including delete
-- Keyboard shortcuts: "R" or "r" to REPLY, "D" or "d" to DELETE
-- Responsive design for larger screens
+ ```bash
+    git clone https://github.com/MrKishoreE/entnt-erp.git](https://github.com/MrKishoreE/reachinbox-frontend-assignment.git
+ ```
+2. **Navigate to the Project Directory:** Change your current directory to the project directory:
 
+3. **Install Dependencies:** Install the required dependencies using npm or yarn:
+ ```bash
+    npm install
+ ```
 
-## Acknowledgements
+4. **Run the Application:** Start the development server:
+ ```bash
+    npm run dev
+ ```
 
-
- - [Tailwind css](https://tailwindcss.com/)
- - [React](https://react.dev/)
- - [Redux](https://redux.js.org/)
- - [Redux-toolkit](https://redux-toolkit.js.org/)
- - [MomentJS](https://momentjs.com/)
- - [Vercel](https://vercel.com/)
- - [Json Web Token](https://www.npmjs.com/package/jsonwebtoken)
-
-
-## Tech Stack 
-
-- ReactJS
-- Redux
-- Redux Toolkit
-- Tailwind CSS
-- MomentJS
-- JSON Web Token
-- JavaScript
-- Axios
-- CSS
-
-## Installation
-
-### Install the Application
-
-```npm install```
-
-
-```npm run dev```
+5. **Access the Application:** Once the server is running, you can access the application by opening your web browser and navigating to http://localhost:3000.
 
 ##Demo Link
 
